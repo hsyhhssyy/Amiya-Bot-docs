@@ -7,10 +7,13 @@ hero:
     tagline: 渐进式 QQ 频道机器人框架，可使用内置适配器对接 QQ 群、OneBot v11/12、KOOK 等机器人平台。
     actions:
         -   theme: brand
-            text: 开始使用
+            text: 添加兔兔到群聊
+            link: /guide/deploy/
+        -   theme: alt
+            text: 开始开发
             link: /develop/basic/
         -   theme: alt
-            text: 部署《明日方舟》机器人 兔兔-V6
+            text: 私有部署《明日方舟》机器人 兔兔-V6
             link: /guide/deploy/
 
 features:
