@@ -60,7 +60,7 @@ secret_key: Uky7BB8zxxxxxxxxigQzVt64oLgnn
 
 <img style="width: 400px" src="../../../assets/console/llOneBot.png" alt="image">
 
-接下来，按照下图所示，填写LLOneBot配置项，和配置AmiayBot实例。
+接下来，创建一个OneBot 11实例，然后按照下图所示，填写LLOneBot配置项，和配置AmiayBot实例。
 
 <img style="width: 400px" src="../../../assets/console/llOneBotConfig.png" alt="image">
 
